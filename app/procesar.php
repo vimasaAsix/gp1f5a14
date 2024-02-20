@@ -40,7 +40,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 </head>
 <body>
     <h1>Dades rebudes des del formulari d'aposta</h1>
-
+	<h1>hecho<h1>
     <a href="index1.php">Volver a la página principal</a>
 </body>
 </html>
