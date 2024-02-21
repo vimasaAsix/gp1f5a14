@@ -1,0 +1,13 @@
+sudo apt update
+sudo apt install apache2
+sudo apt install apache2
+sudo apt install php libapache2-mod-php
+
+sudo nano /etc/apache2/sites-available/000-default.conf
+<VirtualHost *:80>
+    # ...
+    ServerName tu_dominio_o_ip
+    # ...
+</VirtualHost>
+
+mover las paginas al sites-available
