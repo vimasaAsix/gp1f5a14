@@ -19,7 +19,7 @@
 
 </head>
 <body>
-    <h1>ApostA per al partit seleccionat</h1>
+    <h1>ApostAAAA per al partit seleccionat</h1>
     
     <br>
 
