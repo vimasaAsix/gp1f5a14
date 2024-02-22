@@ -19,7 +19,7 @@
 
 </head>
 <body>
-    <h1>Aposta per al partit seleccionat</h1>
+    <h1>ApostA per al partit seleccionat</h1>
     
     <br>
 
