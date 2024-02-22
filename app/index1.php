@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Partits de la pròxima jornada</h1>
-    <h2>Partits<h2>
+    
 
     <?php
     // Nombres de los equipos
